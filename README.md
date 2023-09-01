@@ -15,7 +15,7 @@ I enjoy playing and watching soccer, and I've been a fan of __Manchester United_
 ### Thank you for visiting my profile!
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkyn&show_icons=false&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkyn&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkyn&layout=compact&theme=dark)
 <!--
 **junkyn/junkyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
