@@ -3,7 +3,7 @@
 I'm JunKyu Choi, a class of 2022 at Konkuk University in South Korea. I was born in 2002 and I'm from Gangdong-gu, Seoul. Currently, I live near Konkuk University.
 
 ## Skills
-* Programming languages: **C**, **Java**, **C#**, **C++**
+* Programming languages: **C**, **C++**, **Java**, **C#**,
 * GUI Tool: **Unity**
 
 ## Career Goals
