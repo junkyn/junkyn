@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junkyu Choi</h1>
-<h3 align="center">Konkuk Univ. CSE 22nd</h3>
+<div align="center"> <img src="https://github.com/junkyn/junkyn/assets/122720798/fa1d6b80-93f1-4881-9731-9b9a549c0e59"> </div>
+<h3 align="center">Junkyu Choi </b> Konkuk Univ. CSE 22nd</h3>
 
 <div align="center"> <img src="https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570"> </div>
 
