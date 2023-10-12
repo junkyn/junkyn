@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junkyu Choi</h1>
 <h3 align="center">Konkuk Univ. CSE 22nd</h3>
 
-<p align="center><img src="https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570">
+<p align="center><img src="https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570"></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=junkyn&label=Profile%20views&color=0e75b6&style=flat" alt="junkyn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junkyn&label=Profile%20views&color=0e75b6&style=flat" alt="junkyn" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkyn" alt="junkyn" /></a> </p>
 
