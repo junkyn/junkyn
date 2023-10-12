@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkyn" alt="junkyn" /></a> </p>
 
+<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.notion.so/2661768207a14605bf69520bf3935fba)
 
 - 📫 How to reach me **jkchoi.dev@gmail.com**
