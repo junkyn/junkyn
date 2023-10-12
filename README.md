@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junkyu Choi</h1>
 <h3 align="center">Konkuk Univ. CSE 22nd</h3>
 
-![cat](https://github.com/junkyn/junkyn/assets/122720798/71f8bf44-7b6c-479e-b689-bedfaf967fdf)
+<img align="center src="https://github.com/junkyn/junkyn/assets/122720798/71f8bf44-7b6c-479e-b689-bedfaf967fdf"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junkyn&label=Profile%20views&color=0e75b6&style=flat" alt="junkyn" /> </p>
