@@ -1,6 +1,4 @@
 <div align="center"> <img src="https://github.com/junkyn/junkyn/assets/122720798/ace3d5a7-6f3c-4f0e-b2b6-2b2bac0bc68e"> </div>
-<h2 align="center">Junkyu Choi</h2>
-<h3 align="center">Konkuk Univ. CSE 22nd </h3>
 
 <div align="center"> <img src="https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570"> </div>
 
@@ -9,6 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkyn" alt="junkyn" /></a> </p>
 
+- [Konkuk Univ. CSE 22nd](https://cse.konkuk.ac.kr)
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.notion.so/2661768207a14605bf69520bf3935fba)
 
 - 📫 How to reach me **jkchoi.dev@gmail.com**
