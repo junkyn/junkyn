@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junkyu Choi</h1>
 <h3 align="center">Konkuk Univ. CSE 22nd</h3>
 
-<p align="center><img src="https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570"></p>
+<img src="https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570">
 ![cat](https://github.com/junkyn/junkyn/assets/122720798/291a5395-11eb-4756-94b5-563d4b456570)
 
 
