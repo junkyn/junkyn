@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkyn" alt="junkyn" /></a> </p>
 
-- 👨‍💻 All of my projects are available at "Portfolio"[https://www.notion.so/2661768207a14605bf69520bf3935fba](https://www.notion.so/2661768207a14605bf69520bf3935fba)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.notion.so/2661768207a14605bf69520bf3935fba)(https://www.notion.so/2661768207a14605bf69520bf3935fba)
 
 - 📫 How to reach me **jkchoi.dev@gmail.com**
 
