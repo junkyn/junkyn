@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkyn" alt="junkyn" /></a> </p>
 
 - [Konkuk Univ. CSE 22nd](https://cse.konkuk.ac.kr)
-- 👨‍💻 All of my projects are available at [Portfolio]([https://www.notion.so/2661768207a14605bf69520bf3935fba](https://jazzy-hydrogen-53f.notion.site/2661768207a14605bf69520bf3935fba?pvs=4)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jazzy-hydrogen-53f.notion.site/2661768207a14605bf69520bf3935fba?pvs=4)
 
 - 📫 How to reach me **jkchoi.dev@gmail.com**
 
