@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=junkyn&label=Profile%20views&color=0e75b6&style=flat" alt="junkyn" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junkyn" alt="junkyn" /></a> </p>
-
 - [Konkuk Univ. CSE 22nd](https://cse.konkuk.ac.kr)
 - 👨‍💻 All of my projects are available at [Portfolio](https://jazzy-hydrogen-53f.notion.site/e8b2495170ea4953ba7a1180884ac1c0?pvs=4)
 
