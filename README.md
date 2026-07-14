@@ -15,8 +15,4 @@
 <a href="https://instagram.com/j_ky_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_ky_u" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junkyn&show_icons=true&locale=en&layout=compact" alt="junkyn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junkyn&show_icons=true&locale=en" alt="junkyn" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junkyn&" alt="junkyn" /></p>
